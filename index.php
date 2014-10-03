@@ -1,5 +1,4 @@
 <!--DOCTYPE html-->
-<!--Home page of Float -->
 
 <?php include "headerbar.php"; ?>
 
@@ -30,8 +29,8 @@
 			Through our workshops and programs, we want to encourage more students to give Computer Science a chance. </h3>
 
 			<h3> Learn more: </h3>
-			<a href="./classes_page.php"><div class="bar1"> CLASSES & WORKSHOPS > </div> </a>
-			<a href="./mentorship_page.php"><div class = "bar2"> MENTORSHIP PROGRAM > </div></a>
+			<a href="./classes.php"><div class="bar1"> CLASSES & WORKSHOPS > </div> </a>
+			<a href="./mentorship.php"><div class = "bar2"> MENTORSHIP PROGRAM > </div></a>
 
 			<br><br><br>
 			<h2>It's never too late to start.<br><br> To learn more or join our <br>team, please email:

@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-<!--about.php-->
-
 
 <?php include "headerbar.php"; ?>
 
@@ -11,7 +9,7 @@
 		<div id="aboutcontent">
 			<h1>ABOUT</h1>
 			<p>Float is an undergraduate organization that aims to bring more girls interested in technology and entrepreneurship into the Yale community. However, anyone is welcome to participate in its programs. It provides student-run workshops in web development and design to anyone interested, as well as a mentoring program to those considering the Computer Science major. All workshops and events are presented free-of-charge.
-			<br><br>To learn more, please <a href="./home.php">sign up for the Float mailing list</a>, or email team@floatyale.com.</p>
+			<br><br>To learn more, please <a href="./mailchimp_signup.php">sign up for the Float mailing list</a>, or email team@floatyale.com.</p>
 			<br><h1>MEET THE TEAM</h1>
 		</div>
 
