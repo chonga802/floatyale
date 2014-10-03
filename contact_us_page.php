@@ -1,15 +1,6 @@
 <!--DOCTYPE html-->
 <!--contact_us_page.php -->
 
-<head>
-	<link href="//fonts.googleapis.com/css?family=Quicksand:300,400,700" rel="stylesheet" type="text/css">
-	<link href="//fonts.googleapis.com/css?family=Didact+Gothic:400" rel="stylesheet" type="text/css">
-</head>
-
-
-
-<link href="./style.css" rel="stylesheet" type="text/css" media="screen" />
-
 <?php include "headerbar.php"; ?>
 
 

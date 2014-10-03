@@ -1,16 +1,7 @@
 <!--DOCTYPE html-->
 <!--Home page of Float -->
 
-<head>
-	<link href="//fonts.googleapis.com/css?family=Quicksand:300,400,700" rel="stylesheet" type="text/css">
-	<link href="//fonts.googleapis.com/css?family=Didact+Gothic:400" rel="stylesheet" type="text/css">
-</head>
-
-
-
-<link href="./style.css" rel="stylesheet" type="text/css" media="screen" />
-
-
+<?php include "headerbar.php"; ?>
 
 <!--plugin for facebook like box -->
 
@@ -22,9 +13,6 @@
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-
-
-<?php include "headerbar.php"; ?>
 
 
 <div id="background">

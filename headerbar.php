@@ -1,6 +1,12 @@
 <!--DOCTYPE html-->
 <!--headerbar.php-->
 
+<head>
+	<link href="//fonts.googleapis.com/css?family=Quicksand:300,400,700" rel="stylesheet" type="text/css">
+	<link href="//fonts.googleapis.com/css?family=Didact+Gothic:400" rel="stylesheet" type="text/css">
+	<link rel="icon" type="image/png" href="./images/favicon.jpg">
+</head>
+
 <link href="./style.css" rel="stylesheet" type="text/css" media="screen" />
 
 <div id="headerbar">

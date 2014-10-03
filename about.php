@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 <!--about.php-->
 
-<head>
-	<link href="//fonts.googleapis.com/css?family=Quicksand:300,400,700" rel="stylesheet" type="text/css">
-	<link href="//fonts.googleapis.com/css?family=Didact+Gothic:400" rel="stylesheet" type="text/css">
-</head>
-
-
-
-<link href="./style.css" rel="stylesheet" type="text/css" media="screen" />
-
 
 <?php include "headerbar.php"; ?>
 
@@ -47,7 +38,7 @@
 			morning putting together tomorrow's paper, she enjoys baking chocolate desserts, traveling to warm places,
 			and dreaming of ways to keep a pet bunny in her room.
 			<br><br>To contact Brianna please email her at brianna@floatyale.com.</p>
-			<br>
+
 			<p>Jessica Panger SM'17, Instructor<br><br><img src="./images/jessica.jpg" alt="Jessica" style="float:left; margin: 0 20px 0 0;
 			border:solid; border-color:white; border-width: 10px">
 			Jessica is a sophomore in Silliman from Boca Raton, FL and a Computer Science major. When she isn't
@@ -58,15 +49,12 @@
 			<br>
 			<br>
 			<br>
-			<br>
 			<p>Rachel Prince DC'17, Instructor<br><br><img src="./images/rachel.jpg" alt="Rachel" style="float:left; margin: 0 20px 0 0;
 			border:solid; border-color:white; border-width: 10px">
 			Rachel Prince is a computer science major from San Diego, California. Rachel thoroughly enjoys peanut butter, 
 			the number eleven, running, traveling, and showers. She knows how to get to Yale Health with her eyes closed, 
 			because she did that this summer after a broken contact left her unable to open her eyes.  
 			</p>
-			<br>
-			<br>
 			<br>
 			<br>
 			<p>Alicia Vargas-Morawetz JE'17, Instructor<br><br><img src="./images/alicia.jpg" alt="Alicia" style="float:left; margin: 0 20px 0 0;
