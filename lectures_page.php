@@ -8,7 +8,15 @@
 	<div id="middlecontent">
 		<div id="aboutcontent">
 			<h1> Lecture Slides </h1>
-			<p>Lecture slides are currently unavailable for Fall, 2014. Be sure to check back after our first class!</p>
+			<h3>Intro to HTML/CSS</h3>
+			<p>
+				<a href="https://docs.google.com/a/yale.edu/presentation/d/1I4g4T6Wr3Qmabl3TrQx_jRhIoHNFHG1MLMBZqpza0oI/edit#slide=id.g1274d1570_023"> Click here for HTML/CSS slides</a>
+			</p>
+
+			<h3>Intro to Wordpress</h3>
+			<p>
+				<a href="https://docs.google.com/presentation/d/1b7nPGSAe8LlLaRzab4CmlntxDExAM3GfRT1uqSqYk2g/edit#slide=id.g12664ab9c_0171"> Click here for our Wordpress slides from last year</a>
+			</p>
 		</div>
 	</div>
 </div>
