@@ -1,0 +1,221 @@
+/*style.css for floatyale.com*/
+
+li a:link, a:visited {
+	position: relative;
+	left: 10px;
+	color: #5F498A;
+	text-decoration: none;
+	font-family: 'Quicksand';
+	font-weight: normal;
+	text-transform: uppercase; 
+	font-size: 14px;
+	display: block;
+    width: 140px;
+    padding: 5px;
+    padding-top: 20px;
+    padding-bottom: 18px;
+    text-align: center;
+    z-index: 10;
+    font-size: 17px;
+}
+
+a:hover {
+	background-color: rgba(255,255,255,.7);
+	color: #54D4EE;
+}
+
+ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+}
+
+li {
+    display: inline;
+    float: left;
+}
+
+a{
+	text-decoration:none;
+}
+
+#headerbar{
+	position: absolute;
+	top: 0px;
+	left: 50px;
+	width: 90%; 
+	height: 60px;
+    border-bottom: solid;
+    border-width: 10px;
+   /* border-color: #951797; */
+    border-color: #333333;
+    z-index: 1;
+}
+
+#homecontent{
+	position: relative;
+	top: -180px;
+	left: 50px;
+	width: 500px;
+	font-family: 'Quicksand';
+	font-weight: lighter;
+}
+
+#homecontent h1 {
+	font-size: 22px;
+	color: #2D1375;
+}
+
+#homecontent h2 {
+	font-size: 18px;
+	color: #333333;
+	display: inline-block;
+}
+#homecontent h3{
+	font-size: 18px;
+	font-family: 'Didact Gothic';
+	font-weight: lighter;
+	color: gray;
+}
+
+#homelogo {
+	position: relative;
+	top: -70px;
+	left: 25px;
+}
+
+#mailchimpbox{
+	position: absolute;
+	top: 0px;
+	left: 20px;
+	width: 210px;
+	border-right: none;
+	border-color: gray;
+	border-width: 1px;
+}
+
+.fb-like-box{
+	position: relative;
+	top: 360px;
+	left: 20px;}
+
+#rightsidebar{
+	position: absolute;
+	left: 700px;
+	top:110px;
+	height: 100vH;
+	width: 260px;
+	border-width: 1px;
+	border-color: gray;
+}
+
+#middlecontent{
+	position: absolute;
+	width: 50%;
+	height: 80%;
+	top: 80px;
+	left: 60px;
+	background-color: rgba(255,255,255,.7);
+
+}
+
+#background {
+	position:absolute;
+	height: 300%;
+	width: 180%;
+	background-image: url('./images/clouds.jpg');
+	top: -10px;
+	left: -10px;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.larger{
+	font-size: 20px;
+}
+
+#homecontent .alignright{
+	text-align: right;
+}
+
+#aboutcontent {
+	position: relative;
+	left: 100px;
+	width: 600px;
+	padding: 30px;
+	font-family: 'Didact Gothic';
+}
+#aboutcontent p{
+	position:relative;
+	left: 30px;
+}
+
+a .bar1{
+	padding: 10px;
+	background-color:rgba(62,163,121,.7);
+	font-size:22px;
+	width: 400px;
+	border-bottom:solid;
+	border-color:white;
+	border-width: 5px;
+	text-decoration: none;
+	color: black;
+
+
+
+}
+a .bar2{
+	padding: 10px;
+	background-color:rgba(62,163,77,.7);
+	font-size:22px;
+	width:400px;
+	text-decoration: none;
+	color: black;
+
+
+
+}
+
+a:hover .bar1 {
+	background-color: rgba(62,163,121,.5);
+	color: white;
+	padding:none;
+}
+a:hover .bar2 {
+	background-color: rgba(62,163,77,.6);
+	color: white;
+	padding:none;
+}
+
+#aboutcontent h1{
+	color: rgba(62,80,163,1);
+}
+
+#meettheteam p{
+	position: relative;
+	left: 50px;
+	width: 700px;
+	font-family: 'Didact Gothic';
+
+}
+#meettheteam{
+	position: relative;
+	left: 80px;
+}
+
+.courseinfo{
+	position:relative;
+	left: 50px;
+	color: #333333;
+
+}
+
+.coursetitle{
+	position:relative;
+	color: rgba(62,80,163,1);
+	left: 30px;
+	font-size: 18px;
+}
