@@ -48,7 +48,7 @@
 			and dreaming of ways to keep a pet bunny in her room.
 			<br><br>To contact Brianna please email her at brianna@floatyale.com.</p>
 			<br>
-			<p>Jessica Panger SM'17, Instructor<br><br><img src="./images/jessica.jpg" alt="Brianna" style="float:left; margin: 0 20px 0 0;
+			<p>Jessica Panger SM'17, Instructor<br><br><img src="./images/jessica.jpg" alt="Jessica" style="float:left; margin: 0 20px 0 0;
 			border:solid; border-color:white; border-width: 10px">
 			Jessica is a sophomore in Silliman from Boca Raton, FL and a Computer Science major. When she isn't
 			dancing or watching Gilmore Girls reruns, she's either talking about computers or coding on one. 
@@ -64,6 +64,16 @@
 			Rachel Prince is a computer science major from San Diego, California. Rachel thoroughly enjoys peanut butter, 
 			the number eleven, running, traveling, and showers. She knows how to get to Yale Health with her eyes closed, 
 			because she did that this summer after a broken contact left her unable to open her eyes.  
+			</p>
+			<br>
+			<br>
+			<br>
+			<br>
+			<p>Alicia Vargas-Morawetz JE'17, Instructor<br><br><img src="./images/alicia.jpg" alt="Alicia" style="float:left; margin: 0 20px 0 0;
+			border:solid; border-color:white; border-width: 10px">	
+			Alicia is a computer science major from New York City and a sophomore in JE. Her favorite activities include 
+			eating pretzels and nutella while watching The West Wing, playing soccer, and rereading books she loves. 
+			On a free afternoon you can probably find her hanging out in a coffee shop or spending time outdoors with friends. 
 			</p>
 
 
