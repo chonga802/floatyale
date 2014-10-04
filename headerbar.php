@@ -17,7 +17,7 @@
 		  <li><a href="./programs.php">Programs</a></li>
 		  <li><a href="./lectures.php">Lectures</a></li>
 		 <!-- <li><a href="./gear.php">Gear</a></li> -->
-		  <li><a href="./contact_us.php">Contact Us</a></li>
+		  <li><a href="./join_us.php">Join Us</a></li>
 		</ul>
 	</div>
 </div>

@@ -42,6 +42,10 @@
 
 
 <div id="rightsidebar">
+		<div id="joinus">
+		<h2>Want to join our team?</h2>
+		<h3><a href="./join_us.php">Click here for more details</a></h3>
+		</div>
 
 		<div class="fb-like-box" data-href="https://www.facebook.com/floatyale" data-colorscheme="light" 
 		data-show-faces="true" data-header="true" data-stream="false" data-show-border="true" width="140px"></div>

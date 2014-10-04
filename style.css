@@ -87,7 +87,7 @@ a{
 
 #mailchimpbox{
 	position: absolute;
-	top: 0px;
+	top: 100px;
 	left: 20px;
 	width: 210px;
 	border-right: none;
@@ -98,7 +98,8 @@ a{
 .fb-like-box{
 	position: relative;
 	top: 360px;
-	left: 20px;}
+	left: 20px;
+}
 
 #rightsidebar{
 	position: absolute;
@@ -219,3 +220,21 @@ a:hover .bar2 {
 	left: 30px;
 	font-size: 18px;
 }
+
+#joinus{
+	font-family: 'Quicksand';
+	font-weight: lighter;
+}
+
+#joinus h2{
+	font-size: 22px;
+	color: #2D1375;
+}
+
+#joinus h3{
+	font-size: 18px;
+	font-family: 'Didact Gothic';
+	font-weight: lighter;
+	color: gray;
+}
+
