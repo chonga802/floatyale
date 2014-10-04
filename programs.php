@@ -37,8 +37,7 @@
 
 					2 week intensive workshop series, total of 8 hours<br><br>
 		
-				<a href="https://docs.google.com/forms/d/1tak7zK5qty2ItTDqv3LJwqoJ-X0ohFwi_VAJZL6sE1c/viewform?usp=send_form">
-					<div class="bar1"> SIGN UP HERE > </div> </a></div>
+					<div class="bar1"> SIGN UPS ARE NOW OVER</div></div>
 
 
 				</p>
