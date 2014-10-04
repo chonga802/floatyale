@@ -18,7 +18,7 @@
 
 				<div class="coursetitle">Intro to Web Development and Design (Fall 2014)<br>
 				Saturday, Oct 4. and Oct 11. 2014<br>
-				12pm-4pm</div><br>
+				1pm-3pm (with optional office hours 3-4pm)</div><br>
 				<div class="courseinfo">Float's premiere class to get your ideas on the web. 
 					There will be no homework assigned and you should have a complete website 
 					created by the end of the workshop series.<br><br>
