@@ -51,6 +51,7 @@ a{
    /* border-color: #951797; */
     border-color: #333333;
     z-index: 1;
+    overflow: hidden;
 }
 
 #homecontent{
