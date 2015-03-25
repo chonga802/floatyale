@@ -1,7 +1,8 @@
-<?php include "headerbar.php"; ?>
 
 
 <div id="background">
+	<?php include "headerbar.php"; ?>
+
 	<div id="middlecontent">
 		<div id="aboutcontent">
 			<h1>FAQ's</h1>

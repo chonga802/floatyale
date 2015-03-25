@@ -1,20 +1,20 @@
 <!--DOCTYPE html-->
 
-<?php include "headerbar.php"; ?>
-
-<!--plugin for facebook like box -->
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
 
 <div id="background">
+
+	<?php include "headerbar.php"; ?>
+
+	<!--plugin for facebook like box -->
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
 
 
 	<div id="middlecontent">
@@ -37,23 +37,24 @@
 				<div style="color:#B50749;">team@floatyale.com. </div>
 			</h2>
 		</div>
+
+
+		<div id="rightsidebar">
+				<div id="joinus">
+				<h2>Want to join our team?</h2>
+				<h3><a href="./join_us.php">Click here for more details</a></h3>
+				</div>
+
+				<div class="fb-like-box" data-href="https://www.facebook.com/floatyale" data-colorscheme="light" 
+				data-show-faces="true" data-header="true" data-stream="false" data-show-border="true" width="140px"></div>
+
+				<div id="mailchimpbox">
+					<?php include "mailchimp_signup.php"; ?>
+				</div>
+
+		</div> 
+
 	</div>
 </div>
-
-
-<div id="rightsidebar">
-		<div id="joinus">
-		<h2>Want to join our team?</h2>
-		<h3><a href="./join_us.php">Click here for more details</a></h3>
-		</div>
-
-		<div class="fb-like-box" data-href="https://www.facebook.com/floatyale" data-colorscheme="light" 
-		data-show-faces="true" data-header="true" data-stream="false" data-show-border="true" width="140px"></div>
-
-		<div id="mailchimpbox">
-			<?php include "mailchimp_signup.php"; ?>
-		</div>
-
-</div> 
 
 

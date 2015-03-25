@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 
-<?php include "headerbar.php"; ?>
-
-
 <div id="background">
+	<?php include "headerbar.php"; ?>
+
 	<div id="middlecontent">
 		<div id="aboutcontent">
 			<h1> Lecture Slides </h1>

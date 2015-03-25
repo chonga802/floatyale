@@ -42,14 +42,10 @@ a{
 
 #headerbar{
 	position: absolute;
-	top: 0px;
+	top: 10px;
 	left: 50px;
 	width: 90%; 
 	height: 60px;
-    border-bottom: solid;
-    border-width: 10px;
-   /* border-color: #951797; */
-    border-color: #333333;
     z-index: 1;
     overflow: hidden;
 }
@@ -114,21 +110,27 @@ a{
 
 #middlecontent{
 	position: absolute;
-	width: 50%;
-	height: 90%;
-	top: 80px;
+	height: auto;
+	width: 90%;
+	top: 70px;
 	left: 60px;
 	background-color: rgba(255,255,255,.7);
+	border-top: solid;
+    border-width: 10px;
+   /* border-color: #951797; */
+    border-color: #333333;
 
 }
 
 #background {
 	position:absolute;
-	height: 300%;
-	width: 180%;
 	background-image: url('./images/clouds.jpg');
+	min-height: 100%;
+	height: auto;
+	width: 100%;
 	top: -10px;
 	left: -10px;
+	overflow: auto;
 }
 
 .bold{

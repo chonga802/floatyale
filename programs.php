@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <!--about.php-->
 
-<?php include "headerbar.php"; ?>
-
 <div id="background">
 
+	<?php include "headerbar.php"; ?>
 
 	<div id="middlecontent">
 		<div id="aboutcontent">
@@ -16,29 +15,18 @@
 
 				Current Course Offerings: <br><br>
 
-				<div class="coursetitle">Intro to Web Development and Design (Fall 2014)<br>
-				Saturday, Oct 4. and Oct 11. 2014<br>
-				1pm-3pm (with optional office hours 3-4pm)</div><br>
-				<div class="courseinfo">Float's premiere class to get your ideas on the web. 
-					There will be no homework assigned and you should have a complete website 
-					created by the end of the workshop series.<br><br>
+				<div class="coursetitle">Intro to Web Development and Design (Spring 2015)<br>
+				Saturday, April 4. and April 11. 2015<br>
+				12pm-3pm </div><br>
+				<div class="courseinfo">Float's premiere class to get your ideas on the web. There will be no homework assigned 
+					and you should have a complete website created by the end of the workshop series. No programming experience required!<br>
+				(Note: If you have any previous web design experience, this class is not for you. We'd love to have you as an instructor 
+				though! Email us at team@floatyale.com if interested.)<br><br>
 
-					DAY 1 (Oct 4): HTML/CSS. No programming experience required.
-					(Note: If you have any previous web design experience, Day 1 is not 
-					for you. We'd love to have you as an instructor though! Email us at 
-					team@floatyale.com if interested.)<br><br>
+				Skills you'll learn: HTML/CSS, JAVASCRIPT/jQUERY<br><br>
 
-					DAY 2 (Oct 11): JAVASCRIPT. Previous programming experience required - 
-					you should know what a for loop is.<br><br>
-
-					Students may sign up for Day 1, Day 2, or both.<br><br>
-
-					Skills you'll learn: HTML/CSS, JAVASCRIPT<br><br>
-
-					2 week intensive workshop series, total of 8 hours<br><br>
-		
-					<div class="bar1"> SIGN UPS ARE NOW OVER</div></div>
-
+				2 week intensive workshop series, total of 6 hours 	<br><br>	
+					<a href="http://goo.gl/forms/49k8IzwHgi"><div class="bar1"> SIGN UP HERE > </div> </a>
 
 				</p>
 
